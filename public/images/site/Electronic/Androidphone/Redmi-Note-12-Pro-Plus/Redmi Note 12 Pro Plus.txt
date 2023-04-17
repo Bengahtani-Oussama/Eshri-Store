@@ -1,0 +1,43 @@
+Redmi Note 12 Pro Plus (Global Rom)
+
+OS 1 --- Chinese rom, have Google play store, Support OTA Update,but only support English Language,and have some chinese app you can't remove.
+
+OS 2 --- Global rom, Support Google Play Store, Multi-Languages ,no chinese app and OTA Update!!! After we open the package and installed Global Rom,unlocked bootloader for installing Global rom, NFC, Android Pay, Netflix.
+
+CPU ------------- MTK Dimensity 1080 Octa Core
+
+Screen---------- 6.67-inch Flexible OLED Display; 2400x1080 Screen Resolution; Up to 240Hz Touch Sampling Rate
+
+RAM+ROM ----- 8GB+256GB / 12GB+256GB
+
+Camera --------200MP + 8MP + 2MPTriple Rear Camera, 16MP Front Camera
+
+Battery --------- 5000mAh (typ) battery,120W Fast Charing, Inbox 120W Wired charger
+
+OS -------------- MIUI 13 , China Version Only Support Chinese and English
+
+Sensor ---------- Ultrasonic Distance Sensor｜Ambient Light Sensor｜Acceleration Sensor｜Electronic Compass｜Gyroscope｜Infrared Remote Control｜X-axis Linear Motor
+
+Other ----------- GPS,Ultra-linear Dual Speakers
+
+Package Contents ---- Redmi Note 12 Pro Plus /Adapter / USB Type-C Cable / SIM Eject Tool /Protective Case / Quick Start Guide /Warranty Card
+
+Wireless Connection --- Wi-Fi 6,Wi-Fi 5,Wi-Fi 4 and 802.11a / b / g, 2.4G WiFi | 5G WiFi, Bluetooth 5.2
+
+
+Network -------- Full Netcom, Dual SIM Dual Standby
+
+
+5G: n1/n3/n5/n8/n28A/n38/n41/n77/n78
+
+Note:  The actual network and frequency band usage depends on the deployment of local operators. N28a(Tx:703-733mhz,Rx:758-788MHz)
+
+4G: FDD-LTE:B1/B3/B5/B8/B19
+
+TDD-LTE: B34/B38/B39/B40/B41
+
+Lte B41(2496-2690 194MHZ)
+
+3G: WCDMA:B1/B5/B6/B8/B19;CDMA EVDO:BC0
+
+2G: GSM:B3/B5/B8;CDMA1X:BC0

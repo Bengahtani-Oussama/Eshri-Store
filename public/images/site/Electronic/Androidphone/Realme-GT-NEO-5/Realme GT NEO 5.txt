@@ -1,0 +1,261 @@
+CN ROM Realme GT NEO 5
+
+
+
+There are two versions of GTNeo5 series:
+
+240W charging power version is equipped with 4600mAh battery
+
+150W charging power version is equipped with 5000mAh battery
+
+
+
+processor
+
+--- ---- --- --- ---- --- --- --- --- ---- --- --- ---- --- --- ----
+
+Snapdragon® 8+ 5G flagship chip
+
+CPU: 4nm process technology, octa-core processor, three 2.5GHz A710 large cores, one 3.0GHz X2 large core
+
+GPU: Adreno GPU 730
+
+AI: 2nd Gen HTP
+
+memory and capacity
+
+--- ---- --- --- ---- --- --- --- --- ---- --- --- ---- --- --- ----
+
+Up to 16GB+1TB super storage
+
+Realme GT Neo5 240W configuration is as follows:
+
+RAM: 16GB LPDDR5X
+
+ROM: 256GB/1TB UFS 3.1
+
+Realme GT Neo5 is configured as follows:
+
+RAM: 8GB/12GB/16GB LPDDR5X
+
+ROM: 256GB UFS 3.1
+
+--- ---- --- --- ---- --- --- --- --- --- ---- --- --- ---- --- --- --- ---
+
+Screen
+
+144Hz 1.5K flagship direct screen
+
+Screen size: 6.74 inches
+
+Resolution: 2772*1240
+
+Screen ratio: 93.69%
+
+Refresh rate: up to 144Hz
+
+Sampling Rate: Smart Instantaneous 1500Hz
+
+Contrast Ratio: 5,000,000:1
+
+Color: 1.07 billion colors
+
+Color Saturation: DCI-P3 100%
+
+Color standard: JNCD ≈ 0.33
+
+Packaging process: COP
+
+--- ---- --- --- ---- --- --- --- --- --- ---- --- --- ---- --- --- --- ---
+
+Charging and Batteries
+
+240W full level second charge
+
+2*2300mAh equivalent to 4600mAh (typical)
+
+2*2225mAh is equivalent to 4450mAh (rated value);
+
+Standard 20V/12A (MAX) adapter
+
+USB Type-C interface
+
+150W light speed second charge
+
+2*2500mAh equivalent to 5000mAh (typical)
+
+2*2425mAh equivalent to 4850mAh (nominal value)
+
+Standard 20V/8A (MAX) adapter
+
+USB Type-C interface
+
+*The charging data is from realme lab, the actual data is affected by the test environment and is for reference only.
+
+--- ---- --- --- ---- --- --- --- --- --- ---- --- --- ---- --- --- --- ---
+
+Camera
+
+50 flagship triple camera
+
+rear camera
+
+Sony IMX 890 OIS main camera
+
+Pixels: 50 MP
+
+Equivalent focal length: 23.6mm
+
+FOV: 84.4°
+
+Aperture: f/1.88
+
+Number of lenses: 6P
+
+Sensor size: 1/1.56 inch
+
+112° Super Wide Angle
+
+Pixels: 8 MP
+
+Equivalent focal length: 15.8mm
+
+FOV: 112°
+
+Aperture: f/2.2
+
+Lens combination: 5P
+
+5.5 mm microscope lens
+
+Pixels: 2 MP
+
+Equivalent focal length: 20.1 mm
+
+FOV: 65°
+
+Aperture: f/3.3
+
+Lens combination 3P
+
+Rear camera function:
+
+Photo, beauty, filter, AI scene recognition, street photography, portrait, night scene, 50M, professional, panorama, super text, AI ID photo, microscope, tilt shift, skin quality detection
+
+Rear video function:
+
+Normal video, movie mode, video blur, slow motion, time-lapse photography, multi-view video, night scene video, HDR video, tilt-shift time-lapse
+
+16 MP ultra-clear selfies
+
+16MP front camera
+
+Sensor: Samsung S5K3P9
+
+FOV: 82.3°
+
+Aperture: F2.45
+
+Front camera function:
+
+Photo, custom beauty, filter, night scene, portrait, panorama, AI ID photo
+
+Front camera mode:
+
+Touch screen, volume keys, gestures to take pictures
+
+Support 1080P / 30fps video recording
+
+Support 720P / 30fps video recording
+
+--- ---- --- --- ---- --- --- --- --- --- ---- --- --- ---- --- --- --- ---
+
+network and connection
+
+Support dual card 5G+5G
+
+Support dual card VoLTE & VoNR
+
+network band
+
+2G: GSM: 850/900/1800/1900
+
+CDMA BC0
+
+3G: WCDMA: B1/B5/B6/B8/B19
+
+4G: FDD-LTE: B1/B3/B5/B7/B8/B18/B19/B26/B28A
+
+TDD-LTE: B34/B38/B39/B40/B41(2515-2675MHz)
+
+5G: SA:n1/n3/n5/n8/n28a/n40/n41/n77/n78
+
+NSA:n1/n3/n41/n77/n78
+
+wireless band
+
+Support 2.4G/ 5G Wi-Fi frequency band
+
+Support Bluetooth BT5.3
+
+Support SBC, AAC, APTX, APTX_HD, LHDC, LDAC Bluetooth audio codec
+
+--- ---- --- --- ---- --- --- --- --- --- ---- --- --- ---- --- --- --- ---
+
+physical dimension
+
+Length: 163.85mm
+
+Width: 75.75mm
+
+Thickness ≈ 8.9mm*
+
+Weight ≈ 199 g*
+
+* The above data are realme laboratory test data, the actual thickness, weight and other results may fluctuate slightly due to different test environments or measurement methods.
+
+--- ---- --- --- ---- --- --- --- --- --- ---- --- --- ---- --- --- --- ---
+
+Buttons and Interface
+
+Dual Nano SIM card slots
+
+Type-C interface
+
+dual microphone
+
+dual speakers
+
+Power button
+
+volume adjustment key
+
+--- ---- --- --- ---- --- --- --- --- --- ---- --- --- ---- --- --- --- ---
+
+--- ---- --- --- ---- --- --- --- --- --- ---- --- --- ---- --- --- --- ---
+
+system
+
+realme UI 4.0
+
+Based on Android 13
+
+--- ---- --- --- ---- --- --- --- --- --- ---- --- --- ---- --- --- --- ---
+
+packing list
+
+Realme GT Neo5 240W or Realme GT Neo5
+
+Power Adapter
+
+usb cable
+
+Important Information Guide (with Warranty Card)
+
+Quick Start Guide
+
+SIM card pin
+
+Film has been pasted at the factory
+
+Mobile phone case/case
